@@ -42,4 +42,6 @@ c#:
             ed.WriteMessage("You are entitled to use this plug-in! Continue")
         End Sub
 
+YouTube video: https://youtu.be/-To7GtUlwfk
+
 Source: https://www.lisp.vn/2024/05/kiem-tra-ban-quyen-tren-autodesk-store.html
